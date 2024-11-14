@@ -1,0 +1,6 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://resilientcheetah.github.io/resilientcheetah_github_io_zp533_10.txt
+Sitemap: https://resilientcheetah.github.io/resilientcheetah_github_io_zp533_2.txt
+Sitemap: https://resilientcheetah.github.io/resilientcheetah_github_io_zp533_29.txt
